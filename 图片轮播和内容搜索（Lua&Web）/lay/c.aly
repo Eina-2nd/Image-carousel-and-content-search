@@ -1,0 +1,11 @@
+{
+  RelativeLayout;
+  background="0xFFFFFFFF";
+  layout_height="fill";
+  layout_width="fill";
+  gravity="center";
+  {
+    TextView;
+    text="我的";
+  };
+};
