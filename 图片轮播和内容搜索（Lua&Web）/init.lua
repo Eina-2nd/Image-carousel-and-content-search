@@ -1,0 +1,21 @@
+--名称
+appname="图片轮播和内容搜索"
+--版本号
+appver="1.0"
+--版本
+appcode="1"
+--SDK
+appsdk="15"
+--包名
+packagename="com.mycompany.myapp3"
+--调试模式
+debugmode=true
+--应用权限
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE",
+}
+--跳过编译
+skip_compilation={
+
+}
